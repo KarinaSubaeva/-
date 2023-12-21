@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(169, 182, 193);
+}
+.navbar {
+    background-color: #f5f5dc;
+    padding: 40px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.litl {
+    font-size: 25px;
+}
+#carouselExampleControls {
+    float: left;
+}
+#ddd {
+    margin-right: 130px;
+    margin-left: 1500px;
+}
+.card-body {
+    font-size: 25px;
+}
+.navbar-text {
+    font-size: 20px;
+}
+img {
+    width: 1000px;
+    height: 900px;
+  }
+.carousel-inner {
+    display: block;
+    width: 1400px;
+    height: 900px;
+    overflow: hidden;
+}
+#rrr {
+    background-color: #81b2e0;
+    border-color: #81b2e0;
+    color: black;
+}
+#wera {
+    background-color: black;
+    padding: 20px;
+    color: rgb(227, 224, 224);
+    text-align: center;
+    margin-top: 20px;
+}
+#one {
+    background-color: #71c1ca;
+    text-align: center;
+    font-size: 30px;
+}
+#two {
+    background-color: #6d979d;
+    text-align: center;
+    font-size: 30px;
+}
+#three {
+    background-color: #90d0e5;
+    text-align: center;
+    font-size: 30px;
+}
+#but {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 100%;
+    font-size: 25px;
+}
+.hheell {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1300px;
+}
+#yr {
+    height: 25%;
+    width: 25%;
+}
